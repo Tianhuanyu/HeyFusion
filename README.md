@@ -1,7 +1,5 @@
 # Learned HeyFusion
 
-# TBME Open-Source Software and Hardware Repository
-
 Welcome to the official GitHub repository for the open-source software and hardware associated with our article. This repository provides all the necessary code, designs, and documentation to reproduce the results and experiments described in our paper.
 
 ## About the Project
