@@ -8,8 +8,8 @@ In this study, we introduce a novel shared-control system for key-hole docking o
 
 ### Key Features
 
-- **Software**: Coming Soon
-- **Hardware**: Coming Soon
+- **Software**: Coming Soon and will be avaliable on this page
+- **Hardware**: Coming Soon and will be avaliable on this page
 
 ## Paper Information
 
@@ -25,7 +25,7 @@ For a detailed explanation of the methods and results, please refer to our paper
 
 A video demonstration of the project is available at the following link:
 
-- **Video Link**: [Insert Video Link Here]
+- **Video Link**: https://youtu.be/M_uZHY2E7gY
 
 ## Getting Started
 
