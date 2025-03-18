@@ -13,7 +13,7 @@ For a detailed explanation of the methods and results, please refer to our paper
 
 - **Title**: Semi-Autonomous Laparoscopic Robot Docking with Learned Hand-Eye Information Fusion
 - **Authors**: Huanyu Tian, Martin Huber, Christopher E. Mower, Zhe Han, Changsheng Li, Xingguang Duan, and Christos Bergeles
-- **Journal**: Under Review
+- **Journal**: Accepted by T-BME
 - **arXiv Link**: [https://arxiv.org/abs/2405.05817](https://arxiv.org/abs/2405.05817)
 
 ## Video Demonstration
