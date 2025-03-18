@@ -73,14 +73,8 @@ The repository is organized into the following folders:
 - **pipeline**: The training and evaluation pipeline (e.g., `pipeline/pipeline.py`).
 - **train**: Training scripts (e.g., `train/trainModel.py` and `train/trainOrigin.py`).
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please refer to our [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on contributing to this project.
 
 ## Contact
 
-For any inquiries, please contact [your.email@example.com](mailto:your.email@example.com).
+For any inquiries, please contact [your.email@example.com](mailto:huanyu.tian@kcl.ac.uk).
