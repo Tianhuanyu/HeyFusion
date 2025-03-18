@@ -81,4 +81,4 @@ The repository is organized into the following folders:
 
 ## Contact
 
-For any inquiries, please contact [your.email@example.com](mailto:huanyu.tian@kcl.ac.uk).
+For any inquiries, please contact [huanyu.tian@kcl.ac.uk](mailto:huanyu.tian@kcl.ac.uk).
